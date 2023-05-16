@@ -1,0 +1,14 @@
+{
+  "name": "@vitkonstacky/eslint-config-typescript",
+  "version": "1.0.0",
+  "description": "Typescript configuration for eslint",
+  "license": "MIT",
+  "author": "Vít Konštacký",
+  "main": "index.js",
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": ">= 5",
+    "@typescript-eslint/parser": ">= 5",
+    "eslint": ">= 8",
+    "typescript": ">= 4"
+  }
+}
